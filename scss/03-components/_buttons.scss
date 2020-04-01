@@ -1,0 +1,49 @@
+.purchase-btn {
+    display: inline-block;
+    line-height: 45px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    height: 45px;
+    border-radius: 3px;
+    background-color: #3283ff;
+    color: #ffffff;
+    background-image: url(../img/purchase-icon.svg);
+    background-repeat: no-repeat;
+    background-position: 28px center;
+    padding-left: 61px;
+    padding-right: 29px;
+    font-family: $spaceGroteskRegular;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.how-it-works-btn {
+    display: inline-block;
+    line-height: 45px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    height: 45px;
+    border-radius: 3px;
+    background-color: #ffffff;
+    color: #11141c;
+    background-image: url(../img/how-it-works-icon.svg);
+    background-repeat: no-repeat;
+    background-position: 28px center;
+    padding-left: 61px;
+    padding-right: 29px;
+    font-family: $spaceGroteskBold;
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 5px;
+}
+
+.preview-btn {
+    font-size: 13px;
+    font-family: $spaceGroteskBold;
+    color: #2d3343;
+    border-bottom: dotted 1px #2d3343;
+    text-decoration: none;
+    line-height: normal;
+}

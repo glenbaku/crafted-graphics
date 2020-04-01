@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>play-circle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="data_visualization_kit_desktop" transform="translate(-480.000000, -486.000000)" stroke="#6D7488">
+            <g id="Group-Copy" transform="translate(455.000000, 473.000000)">
+                <g id="play-circle" transform="translate(26.000000, 14.000000)">
+                    <circle id="Oval" cx="8.5" cy="8.5" r="8.5"></circle>
+                    <polygon id="Path" points="6.8 5.1 11.9 8.5 6.8 11.9"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

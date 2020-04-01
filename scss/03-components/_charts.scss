@@ -1,0 +1,109 @@
+.chart-1 {
+    width: 216px;
+    height: 156px;
+    border-radius: 1.2px;
+    background-image: url(../img/charts/chart_1@3x.png);
+}
+
+.chart-2 {
+    width: 324px;
+    height: 178.6px;
+    border-radius: 1.8px;
+    box-shadow: 0 8px 21px 0 rgba(0, 0, 0, 0.03);
+    background-image: url(../img/charts/chart_2@3x.png);
+    background-size: contain;
+    margin-left: 10px;
+}
+
+.chart-row-1 {
+    display: flex;
+    align-items: flex-end;
+}
+
+.chart-3 {
+    width: 432px;
+    height: 312px;
+    border-radius: 2.4px;
+    box-shadow: 0 8px 21px 0 rgba(0, 0, 0, 0.03);
+    background-image: url(../img/charts/chart_3@3x.png);
+    margin-top: 10.4px;
+}
+
+.chart-row-2 {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.chart-4 {
+    width: 345.6px;
+    height: 281.6px;
+    border-radius: 1.9px;
+    background-image: url(../img/charts/chart_4@3x.png);
+}
+
+.chart-5 {
+    width: 183px;
+    height: 195px;
+    border-radius: 1.5px;
+    background-image: url(../img/charts/chart_5@3x.png);
+    margin-left: 10px;
+}
+
+.chart-row-3 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+    margin-top: 10px;
+}
+
+.chart-1,
+.chart-2,
+.chart-3,
+.chart-4,
+.chart-5 {
+    box-shadow: 0 8px 21px 0 rgba(0, 0, 0, 0.03);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.preview-chart-1 {
+    width: 378px;
+    height: 273px;
+    border-radius: 2.1px;
+    background-image: url(../img/charts/chart_6@3x.png);
+    transform: translateY(19px);
+}
+
+.preview-chart-2 {
+    width: 432px;
+    height: 312px;
+    border-radius: 2.4px;
+    background-image: url(../img/charts/chart_7@3x.png);
+}
+
+.preview-chart-3 {
+    width: 378px;
+    height: 273px;
+    border-radius: 2.1px;
+    background-image: url(../img/charts/chart_8@3x.png);
+    transform: translateY(19px);
+}
+
+.preview-chart {
+    box-shadow: 0 8px 21px 0 rgba(0, 0, 0, 0.03);
+    background-color: #ffffff;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.chart-row {
+    display: flex;
+    justify-content: center;
+    transform: translateY(48px);
+
+    >div {
+        margin: 0 5px;
+    }
+}

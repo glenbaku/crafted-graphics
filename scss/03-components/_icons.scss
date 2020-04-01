@@ -1,0 +1,130 @@
+.sketch-icon {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    background-image: url(../img/sketch.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.kit-icon {
+    width: 35px;
+    height: 35px;
+    border-radius: 8px;
+    box-shadow: 0 5px 19px 0 rgba(0, 0, 0, 0.05);
+    background-image: url(../img/icons/kit_icon.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 0 auto;
+}
+
+.category-icon {
+    width: 35px;
+    height: 35px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    box-shadow: 0 5px 19px 0 rgba(0, 0, 0, 0.05);
+}
+
+.area-icon {
+    background-image: url(../img/icons/area_icon.svg);
+}
+
+.bar-icon {
+    background-image: url(../img/icons/bar_icon.svg);
+}
+
+.column-icon {
+    background-image: url(../img/icons/column_icon.svg);
+}
+
+.line-icon {
+    background-image: url(../img/icons/line_icon.svg);
+}
+
+.pie-icon {
+    background-image: url(../img/icons/pie_icon.svg);
+}
+
+.combined-icon {
+    background-image: url(../img/icons/combined_icon.svg);
+}
+
+.bubble-icon {
+    background-image: url(../img/icons/bubble_icon.svg);
+}
+
+.scatter-icon {
+    background-image: url(../img/icons/scatter_icon.svg);
+}
+
+.gauge-icon {
+    background-image: url(../img/icons/gauge_icon.svg);
+}
+
+.funnel-icon {
+    background-image: url(../img/icons/funnel_icon.svg);
+}
+
+.sparkline-icon {
+    background-image: url(../img/icons/sparkline_icon.svg);
+}
+
+.radar-icon {
+    background-image: url(../img/icons/radar_icon.svg);
+}
+
+.heatmap-icon {
+    background-image: url(../img/icons/heatmap_icon.svg);
+}
+
+.map-icon {
+    background-image: url(../img/icons/map_icon.svg);
+}
+
+.mekko-icon {
+    background-image: url(../img/icons/mekko_icon.svg);
+}
+
+.gantt-icon {
+    background-image: url(../img/icons/roadmap_icon.svg);
+}
+
+.treemap-icon {
+    background-image: url(../img/icons/treemap_icon.svg);
+}
+
+.customizable-icon {
+    width: 35px;
+    height: 35px;
+    background-image: url(../img/customizable.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.symbols-icon {
+    width: 35px;
+    height: 35px;
+    border-radius: 8px;
+    box-shadow: 0 5px 19px 0 rgba(0, 0, 0, 0.05);
+    background: url(../img/symbols.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    margin-bottom: 20px;
+}
+
+.styles-icon {
+    width: 35px;
+    height: 35px;
+    border-radius: 8px;
+    box-shadow: 0 5px 19px 0 rgba(0, 0, 0, 0.05);
+    background: url(../img/text-styles.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    margin-bottom: 20px;
+}

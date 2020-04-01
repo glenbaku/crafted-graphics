@@ -1,0 +1,50 @@
+header {
+    display: flex;
+    justify-content: center;
+    background-color: #f6f9fc;
+    height: 690px;
+    >div {
+        flex-basis: 50%;
+
+        &:first-child {
+            padding-top: 262px;
+            padding-left: 250px;
+            padding-bottom: 172px;
+            h1,
+            h2 {
+                font-family: $spaceGroteskBold;
+            }
+
+            h2 {
+                font-size: 22px;
+                color: #2d3343;
+                line-height: 1;
+
+                span:first-child {
+                    border-bottom: dotted 1px #2d3343;
+                }
+            }
+
+            h1 {
+                font-size: 30px;
+                color: #11141c;
+                padding-top: 3px;
+            }
+
+            p {
+                padding-top: 20px;
+                padding-bottom: 55px;
+                font-size: 15px;
+                line-height: 1.67;
+                color: #646a78;
+                max-width: 437px;
+                font-family: $spaceGroteskMedium;
+            }
+
+        }
+
+        &:nth-child(2) {
+            padding-right: 66px;
+        }
+    }
+}

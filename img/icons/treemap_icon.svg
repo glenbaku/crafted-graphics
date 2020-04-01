@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>treemap_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10.2555408,4.92498016e-16 L24.7444592,4.14336123e-16 C28.3105342,-2.4074122e-16 29.6036791,0.371302445 30.9073828,1.06853082 C32.2110865,1.76575919 33.2342408,2.78891348 33.9314692,4.09261719 C34.6286976,5.39632089 35,6.68946584 35,10.2555408 L35,24.7444592 C35,28.3105342 34.6286976,29.6036791 33.9314692,30.9073828 C33.2342408,32.2110865 32.2110865,33.2342408 30.9073828,33.9314692 C29.6036791,34.6286976 28.3105342,35 24.7444592,35 L10.2555408,35 C6.68946584,35 5.39632089,34.6286976 4.09261719,33.9314692 C2.78891348,33.2342408 1.76575919,32.2110865 1.06853082,30.9073828 C0.371302445,29.6036791 -3.66402603e-16,28.3105342 6.30610057e-16,24.7444592 L2.76224082e-16,10.2555408 C-1.60494146e-16,6.68946584 0.371302445,5.39632089 1.06853082,4.09261719 C1.76575919,2.78891348 2.78891348,1.76575919 4.09261719,1.06853082 C5.39632089,0.371302445 6.68946584,-2.8615553e-16 10.2555408,4.92498016e-16 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="data_visualization_kit_desktop" transform="translate(-1000.000000, -1573.000000)">
+            <g id="Group-10" transform="translate(400.000000, 1445.000000)">
+                <g id="Group-8" transform="translate(0.000000, 128.000000)">
+                    <g id="treemap_icon" transform="translate(600.000000, 0.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="container" fill="#FFFFFF" xlink:href="#path-1"></use>
+                        <rect id="path" fill="#566DFF" opacity="0.100000001" mask="url(#mask-2)" x="7" y="7" width="10" height="21"></rect>
+                        <rect id="path" fill="#D15AFF" opacity="0.100000001" mask="url(#mask-2)" x="18" y="7" width="10" height="10"></rect>
+                        <rect id="path" fill="#D15AFF" opacity="0.100000001" mask="url(#mask-2)" x="18" y="18" width="4" height="4"></rect>
+                        <rect id="path" fill="#EEEEEE" mask="url(#mask-2)" x="18" y="23" width="5" height="5"></rect>
+                        <rect id="path" fill="#566DFF" opacity="0.100000001" mask="url(#mask-2)" x="23" y="18" width="5" height="4"></rect>
+                        <rect id="path" fill="#D15AFF" opacity="0.100000001" mask="url(#mask-2)" x="24" y="23" width="4" height="5"></rect>
+                        <rect id="path" stroke="#566DFF" mask="url(#mask-2)" x="7.5" y="7.5" width="9" height="20"></rect>
+                        <rect id="path" stroke="#D15AFF" mask="url(#mask-2)" x="18.5" y="7.5" width="9" height="9"></rect>
+                        <rect id="path" stroke="#D15AFF" mask="url(#mask-2)" x="18.5" y="18.5" width="3" height="3"></rect>
+                        <rect id="path" stroke="#566DFF" mask="url(#mask-2)" x="18.5" y="23.5" width="4" height="4"></rect>
+                        <rect id="path" stroke="#566DFF" mask="url(#mask-2)" x="23.5" y="18.5" width="4" height="3"></rect>
+                        <rect id="path" stroke="#D15AFF" mask="url(#mask-2)" x="24.5" y="23.5" width="3" height="4"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
